@@ -5,7 +5,15 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
+
+//ttf-iosevka needed here
 static char *font = "Iosevka:pixelsize=18:antialias=true:autohint=true";
+/* Spare fonts */
+static char *font2[] = {
+  //for icons, symbols etc.
+	"Hack Nerd Font Mono:pixelsize=16:antialias=true:autohint=true",
+};
+
 static int borderpx = 2;
 
 /*
