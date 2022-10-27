@@ -11,7 +11,7 @@ static char *font = "Iosevka:pixelsize=16:antialias=true:autohint=true";
 /* Spare fonts */
 static char *font2[] = {
   //for icons, symbols etc.
-	"Hack Nerd Font Mono:pixelsize=14:antialias=true:autohint=true",
+	"Symbols Nerd Font:pixelsize=10:antialias=true:autohint=true",
 };
 
 static int borderpx = 2;
